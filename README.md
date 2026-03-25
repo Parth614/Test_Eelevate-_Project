@@ -27,16 +27,16 @@ The model is built using MobileNetV2 transfer learning and deployed using OpenCV
 ---
 
 ## Dataset Structure
-
 dataset/
 │
 ├── with_mask/
-│   ├── image1.jpg
-│   ├── image2.jpg
+│ ├── image1.jpg
+│ ├── image2.jpg
 │
 └── without_mask/
-    ├── image1.jpg
-    ├── image2.jpg
+├── image1.jpg
+├── image2.jpg
+
 
 ---
 
